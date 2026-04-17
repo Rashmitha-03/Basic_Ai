@@ -1,2 +1,2 @@
 # Basic_Ai
-Python scripts of learnings
+Python scripts of learning numpy
