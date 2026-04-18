@@ -1,2 +1,2 @@
 # Basic_Ai
-Python scripts of learning numpy
+Python scripts of learning numpy, linear Regression
