@@ -1,4 +1,4 @@
-# Basic_Ai
+# Basic_Models
 Python scripts of learning numpy, linear Regression, decision tree, logistic regression.
 This repo also contains python scripts for spam classification using naive bayes and house price prediction solutions.
-Also contains some mini-projects used for learning.
+Contains scripts for classifying images using KNN
